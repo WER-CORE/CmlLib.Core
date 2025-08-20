@@ -26,7 +26,7 @@ CmlLib.Core 是.NET上的一个Minecraft启动库\
 * 自定义参数启动 (服务器直连, 屏幕分辨率)
 * 跨平台 (Windows, Linux, macOS)
 
-[去Wiki查看所有特性](https://alphabs.gitbook.io/cmllib/cmllib.core/cmllib)
+[去Wiki查看所有特性](https://cmllib.github.io/CmlLib.Core-wiki/en/)
 
 ## 安装
 
