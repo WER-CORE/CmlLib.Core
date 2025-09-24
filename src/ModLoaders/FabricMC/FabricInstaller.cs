@@ -59,7 +59,7 @@ public class FabricInstaller
 
     public async Task<Stream> GetProfileJson(string gameVersion, string loaderVersion)
     {
-        return await _httpClient.GetStreamAsync($"{DefaultApiServerHost}/v2/versions/loader/{gameVersion}/{loaderVersion}/profile/json");
+        return await _httpClient.GetStreamAsync($"{_host}/v2/versions/loader/{gameVersion}/{loaderVersion}/profile/json");
     }
 
     private IEnumerable<FabricLoader> parseLoaders(JsonElement root)
