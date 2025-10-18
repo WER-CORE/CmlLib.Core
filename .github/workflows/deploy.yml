@@ -35,15 +35,13 @@ jobs:
     - run: docfx metadata docfx.json
     - run: docfx docfx.json
 
+    - name: Copy Metadata into Site Folder
+      run: cp -r api _site/api
+
     - name: Upload site
       uses: actions/upload-pages-artifact@v3
       with:
         path: '_site'
-
-    - name: Upload metadata
-      uses: actions/upload-pages-artifact@v3
-      with:
-        path: 'api'
 
     - name: Deploy to GitHub Pages
       id: deployment
