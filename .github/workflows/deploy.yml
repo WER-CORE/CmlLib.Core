@@ -36,7 +36,7 @@ jobs:
     - run: docfx docfx.json
 
     - name: Copy Metadata into Site Folder
-      run: cp -r api _site/api
+      run: cp -r api/* _site/api
 
     - name: Upload site
       uses: actions/upload-pages-artifact@v3
