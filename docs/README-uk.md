@@ -1,5 +1,5 @@
 # CmlLib.Core
-**Мови:** [English](README.md) | [Українська](docs/README-uk.md) | [한국어](docs/README-chs.md)
+**Мови:** [English](README.md) | [Українська](docs/README-uk.md) | [简体中文](docs/README-chs.md)
 ## Бібліотека для лаунчера Minecraft
 
 <img src='https://raw.githubusercontent.com/CmlLib/CmlLib.Core/master/icon.png' width=128>
