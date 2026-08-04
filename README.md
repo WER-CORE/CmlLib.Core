@@ -1,4 +1,5 @@
 # CmlLib.Core
+**README Languages:** [English](README.md) | [Українська](docs/README-ua.md) | [한국어](docs/README-chs.md)
 
 ## Minecraft Launcher Library
 
