@@ -2,13 +2,21 @@
 
 ## Бібліотека для лаунчера Minecraft
 
-CmlLib.Core — це бібліотека для створення лаунчерів Minecraft на .NET
+<img src='https://raw.githubusercontent.com/CmlLib/CmlLib.Core/master/icon.png' width=128>
+
+[![Nuget Badge](https://img.shields.io/nuget/v/CmlLib.Core)](https://www.nuget.org/packages/CmlLib.Core)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/CmlLib/CmlLib.Core/blob/master/LICENSE)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3f55a130ec3f4bccb55e7def97cfa2ce)](https://www.codacy.com/gh/CmlLib/CmlLib.Core/dashboard?utm_source=github.com\&utm_medium=referral\&utm_content=CmlLib/CmlLib.Core\&utm_campaign=Badge_Grade)
+
+[![Discord](https://img.shields.io/discord/795952027443527690?label=discord\&logo=discord\&style=for-the-badge)](https://discord.gg/cDW2pvwHSc)
+
+CmlLib.Core це бібліотека для створення лаунчерів Minecraft на .NET
 
 Підтримує всі ванільні та модифіковані версії (включаючи Forge, Fabric тощо...)
 
-[Документація корейською мовою](https://www.google.com/search?q=https://cmllib.github.io/CmlLib.Core-wiki/ko/)
+[Документація корейською мовою](https://cmllib.github.io/CmlLib.Core-wiki/ko/)
 
-[Реклама: Створимо лаунчер для вас!](https://www.google.com/search?q=https://cmllib.github.io/CmlLib.Core-wiki/ko/ad/)
+[Реклама: Створимо лаунчер для вас!](https://cmllib.github.io/CmlLib.Core-wiki/ko/ad/)
 
 ## Можливості
 
@@ -91,12 +99,15 @@ process.Start();
 
 **[Офіційна документація](https://cmllib.github.io/CmlLib.Core-wiki/en/)**
 
-**[Документація корейською мовою](https://www.google.com/search?q=https://cmllib.github.io/CmlLib.Core-wiki/ko/)**
+**[Документація корейською мовою](https://cmllib.github.io/CmlLib.Core-wiki/ko/)**
 
 ## Приклад
 
 [Приклад лаунчера](https://github.com/CmlLib/CmlLib-Minecraft-Launcher)
 
 ## Співрозробники
+<a href="https://github.com/cmllib/cmllib.core/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=cmllib/cmllib.core" />
+</a>
 
 Створено за допомогою [contrib.rocks](https://contrib.rocks).
