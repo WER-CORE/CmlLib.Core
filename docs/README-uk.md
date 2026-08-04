@@ -97,7 +97,7 @@ process.Start();
 
 ## Документація
 
-**[Документація англійської мовою](https://cmllib.github.io/CmlLib.Core-wiki/en/)**
+**[Документація англійською мовою](https://cmllib.github.io/CmlLib.Core-wiki/en/)**
 
 **[Документація корейською мовою](https://cmllib.github.io/CmlLib.Core-wiki/ko/)**
 
