@@ -36,7 +36,7 @@ CmlLib.Core це бібліотека для створення лаунчері
 
 Встановіть [NuGet-пакет CmlLib.Core](https://www.nuget.org/packages/CmlLib.Core)
 
-## Швидкий старт
+## Швидкий початок
 
 ### Отримання всіх версій
 
