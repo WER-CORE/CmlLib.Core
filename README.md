@@ -1,5 +1,5 @@
 # CmlLib.Core
-**Languages:** [English](README.md) | [Українська](docs/README-uk.md) | [한국어](https://cmllib.github.io/CmlLib.Core-wiki/ko/)
+**Languages:** [English](README.md) | [Українська](docs/README-uk.md) | [한국어](docs/README-chs.md)
 
 ## Minecraft Launcher Library
 
